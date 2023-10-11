@@ -1,5 +1,5 @@
 # Agencia-Bancaria
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/IZUKUONE/imc-calculo/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/IZUKUONE/Agencia-Bancaria/blob/main/LICENSE)
 
 ## Sobre o projeto 
 A agência bancaria é uma aplicação back-end, criado por Jorge Luis.
