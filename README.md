@@ -10,6 +10,22 @@ A aplicação consiste no usuário poder criar, entrar, sacar, transferir ou olh
 
 ### back-end
 - Java
+
+# Como executar o projeto
+
+## Back end
+Pré-requisitos: Java 8
+
+```bash
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
+
+# entrar na pasta do projeto back end
+cd backend
+
+# executar o projeto
+./mvnw spring-boot:run
+```
  
 ## Autor
 Jorge Luis de Carvalho Alves
