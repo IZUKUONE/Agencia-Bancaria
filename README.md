@@ -18,13 +18,13 @@ Pré-requisitos: Java 8
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/IZUKUONE/Agencia-Bancaria.git
 
-# entrar na pasta do projeto back end
-cd backend
+# entrar na pasta do projeto src
+programa
 
 # executar o projeto
-./mvnw spring-boot:run
+AgenciaMain
 ```
  
 ## Autor
