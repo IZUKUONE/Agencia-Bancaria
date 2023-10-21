@@ -6,6 +6,12 @@ A agência bancaria é uma aplicação back-end, criado por Jorge Luis.
 
 A aplicação consiste no usuário poder criar, entrar, sacar, transferir ou olhar o seu banco, uma aplicação feita com java puro.
 
+##Layout
+
+https://github.com/IZUKUONE/Agencia-Bancaria/issues/1#issue-1955179228   
+
+https://github.com/IZUKUONE/Agencia-Bancaria/issues/2#issue-1955182392
+
 ## Tecnologia
 
 ### back-end
