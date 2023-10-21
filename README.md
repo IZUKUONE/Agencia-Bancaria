@@ -8,9 +8,7 @@ A aplicação consiste no usuário poder criar, entrar, sacar, transferir ou olh
 
 ##Layout
 
-![img01](https://github.com/IZUKUONE/Agencia-Bancaria/issues/1#issue-1955179228)  
-
-![img02](https://github.com/IZUKUONE/Agencia-Bancaria/issues/2#issue-1955182392)
+![img01](https://github.com/IZUKUONE/Pokedex/assets/90990711/3ae28787-f6e0-4913-b07e-3f84bf8c8953)
 
 ## Tecnologia
 
