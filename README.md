@@ -18,8 +18,6 @@ A aplicação consiste no usuário poder criar, entrar, sacar, transferir ou olh
 ### back-end
 - Java
 
-# Como executar o projeto
-
 ## Back end
 Pré-requisitos: Java 8
 
