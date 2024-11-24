@@ -1,4 +1,4 @@
-# Agência Bancaria
+# Banking Agency
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/IZUKUONE/Agencia-Bancaria/blob/main/LICENSE)
 
 ## Sobre o projeto 
